@@ -4,7 +4,6 @@ import {
   StyledImg,
   CTAImage,
   CTAImageText,
-  CTAImageWrapper,
   CTAImageTextWrapper,
 } from "./CTA.styles"
 

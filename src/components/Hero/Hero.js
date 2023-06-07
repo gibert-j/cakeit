@@ -14,7 +14,6 @@ const Hero = () => {
       <StyledImg image={imageData} alt="Hero Image" />
       <HeaderWrapper>
         <h1>{data.heroText}</h1>
-        console.log(data.heroText)
       </HeaderWrapper>
     </Wrapper>
   )
